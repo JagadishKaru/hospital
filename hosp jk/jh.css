@@ -1,0 +1,120 @@
+.header{display:flex;
+        width:100%;
+	    height:100px;
+		background-color:lightgreen;
+		color:black;
+}
+.search{margin-top:60px;
+         margin-left:30px;
+}
+.logo{  margin-left:330px;}
+.icons{padding:50px;
+	   margin-left:280px;
+	  }
+#offcanvasRight{background-color:skyblue;}		  
+	p{padding:10px;
+	  display:inline;
+		  }	
+nav{background-color:lightgreen;
+		    height:45px;
+			padding-top:15px;
+		   }
+		li{display:inline;
+		   padding:10px;
+		   }		  
+		.menu{text-decoration:none;}
+		.menu:hover{text-decoration:underline;
+		            transition:all 0.4s ease;
+		            color:white;
+		           }   
+		.carousel{position:relative;}
+       .topic{position:absolute;
+	          top:150px;
+	   }		
+				   
+		.cards{height:450px;
+		       border:solid;
+			   }
+		.c1{display:flex;
+			height:400px;
+			width:100%;
+			justify-content:space-around;
+			padding-top:25px;
+			padding-top:25px;
+			}
+		.section2{height:480px;
+				  width:100%;
+				  display:flex;
+				  background-color:black;
+				  color:white;
+			     }
+		.s21{height:475px;
+				 width:50%;
+			     padding:30px 40px 40px 20px;
+			     background-color:skyblue;
+			     color:white;
+				 }
+		.btnn{margin-left:200px;
+                background-color:blue;
+				color:white;
+	            width:100px;
+                }
+        .btnn:active{ background-color:green;
+	            }
+        label{color:white;
+              padding-left:20px;
+               }	
+        input:hover{background-color:black;
+                    color:white;
+                   }
+ 
+       .section3{display:flex;
+	              width:100%;
+				  height:400px;
+				  justify-content:space-around;
+				  background-color:lightgreen;
+				  color:black;
+	             }
+	    .s31{margin-top:50px;
+		     position:relative;
+			 
+	         }
+		
+        .s32{position:absolute;
+		     
+		     left:0;
+			 top:0;
+			 opacity:0;
+			 transition:all 0.7s ease;
+		     }
+        .s32:hover{opacity:1;}
+		
+     
+	   .section5{
+	              display:flex;   
+	              height:400px;
+			      width:100%;
+			      
+	             } 	
+    .s51{height:400px;
+	     width:35%;
+		
+		
+	}
+    .s52{height:400px;
+	     width:30%;
+		 margin-top:50px;
+		
+	}
+ .s53{height:300px;
+	     width:35%;
+		margin-top:50px;
+	}	
+   .section4{border-style:solid none none none;
+	              display:flex;   
+	              height:300px;
+			      padding:80px;
+			      background-color:skyblue;
+			      color:white;
+			      justify-content:space-around;
+	             } 	
